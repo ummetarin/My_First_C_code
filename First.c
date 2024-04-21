@@ -6,8 +6,13 @@ int main(){
     // printf("a is = %d",a);
 
     // char
-    char a;
-    a='A';
-    printf("%c",a);
+    // char a;
+    // a='A';
+    // printf("%c",a);
+
+    // float
+    float a;
+    a=1.5;
+    printf("%.2f",a);
 
 }
