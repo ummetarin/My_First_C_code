@@ -1,4 +1,7 @@
 #include<stdio.h>
 int main(){
-    printf("tarin");
+    int a;
+    a=10;
+    printf("a is = %d",a);
+
 }
