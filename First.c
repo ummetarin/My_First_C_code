@@ -22,8 +22,8 @@ int main(){
 
 // array
 
-int a[10]={1,3,45,5,7,8};
+int a[]={1,3,45,5,7,8};
 for(int i=0;i<a[i];i++){
-printf("i\n",i);
+printf("%d\n",a[i]);
 }
 }
