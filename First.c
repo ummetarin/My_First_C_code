@@ -11,8 +11,12 @@ int main(){
     // printf("%c",a);
 
     // float
-    float a;
-    a=1.5;
-    printf("%.2f",a);
-
+    // float a;
+    // a=1.5;
+    // printf("%.2f",a);
+  
+//    Double
+double a;
+a=111.5566;
+printf("%lf",a);
 }
